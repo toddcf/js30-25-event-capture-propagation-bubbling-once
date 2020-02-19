@@ -1,1 +1,1 @@
-# js30-25-event-capture-propagation-bubbling-once
+# JavaScript30 #25: Event Capture, Propagation, Bubbling, Once
